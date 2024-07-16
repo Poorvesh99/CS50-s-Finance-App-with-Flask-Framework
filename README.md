@@ -21,7 +21,7 @@ The Stock Portfolio Manager is a web application built with Flask that allows us
 3. **Install the required packages:**
     python3 -m venv venv
     source venv/bin/activate
-4. ** Set up the database:**
+4. **Set up the database:**
      export FLASK_APP=app.py
      flask db init
      flask db migrate -m "Initial migration."
